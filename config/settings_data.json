@@ -4,7 +4,7 @@
     "Default": {
       "logo_width": 90,
       "colors_solid_button_labels": "#ffffff",
-      "colors_accent_1": "#121212",
+      "colors_accent_1": "#FF69B4",
       "gradient_accent_1": "",
       "colors_accent_2": "#334fb4",
       "gradient_accent_2": "",
@@ -109,7 +109,7 @@
       "sold_out_badge_color_scheme": "inverse",
       "accent_icons": "text",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
